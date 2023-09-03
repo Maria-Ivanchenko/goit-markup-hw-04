@@ -60,8 +60,6 @@ h6 {
   align-items: center;
   padding-top: 24px;
   padding-bottom: 24px;
-  position: relative;
-  color: #404bbf;
 }
 .header-logo {
   color: var(--accent-color);
@@ -73,6 +71,8 @@ h6 {
   letter-spacing: 0.03em;
   text-decoration: none;
   margin-right: 76px;
+  position: relative;
+  color: #404bbf;
 }
 .header-logo-accent {
   color: #2e2f42;
